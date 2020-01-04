@@ -1,0 +1,6 @@
+See file:///C:/Users/iCan%20Student/Desktop/Robotics/FRC/Code/Infinite%20Recharge%202020/InfiniteRechargeProject/build/tmp/compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp.
+compiling Drivetrain.cpp successful.
+
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/iCan%20Student/Desktop/Robotics/FRC/Code/Infinite%20Recharge%202020/InfiniteRechargeProject/build/tmp/compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp/output.txt.
